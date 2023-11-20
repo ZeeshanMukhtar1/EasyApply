@@ -14,11 +14,19 @@ import PopularJobsCard from '../../common/cards/popular/PopularJobCard';
 
 import styles from './popularjobs.style';
 
-const isLoading = false;
-const error = false;
+import useFetch from '../../../hook/useFetch';
+
+// const isLoading = false;
+// const error = false;
 
 const Popularjobs = () => {
   const router = useRouter();
+  const { data, isLoading, error } = useFetch('search', {
+    query: 'React Developer',
+    num_pages: 1,
+  });
+
+  console.log(data);
   return (
     <View style={styles.container}>
       <View style={styles.header}>
