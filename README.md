@@ -32,7 +32,6 @@
       <img src="./assets/output/parttime.png" alt="part time job " />
     </td>
     <td align="center">
-      <img src="test" alt="Screenshot 6"/>
     </td>
   </tr>
 </table>
@@ -62,6 +61,8 @@ Technologies that power Easy Apply:
 ## 🚀 Demo
 
 [Explore the Demo](test)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
 Let the job hunt begin! 🌟🔍
 Happy Coding! 🚀
