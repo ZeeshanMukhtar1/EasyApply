@@ -60,7 +60,7 @@ Technologies that power Easy Apply:
 
 ## 🚀 Demo
 
-[Explore the Demo](test)
+[Explore the Demo APK](https://github.com/ZeeshanMukhtar1/EasyApply/releases)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 

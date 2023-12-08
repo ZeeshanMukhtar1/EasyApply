@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "jobsift",
-    "slug": "jobsift"
+    "name": "EasyApply",
+    "slug": "EasyApply"
   }
 }
